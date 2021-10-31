@@ -18,7 +18,7 @@
   
   _(d)_ `Show me suggested content in the Settings app`.
   
- **2.** Go to 'Sppech' and under 'Online speech recognition', turn off the toggle.
+ **2.** Go to 'Speech' and under 'Online speech recognition', turn off the toggle.
  
  **3.**  Go to 'Inking & typing personalization' and turn off `Personal inking and typing dictionary`, and under 'Personal dictionary', click on `Clear your personal dictionary`.
  
