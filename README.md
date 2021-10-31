@@ -20,7 +20,7 @@
   
  **2.** Go to 'Sppech' and turn off `Online speech recognition`
  
- **3.**  Go to 'Inking & typing personalization' and turn off `Personal inking and typing dictionary`
+ **3.**  Go to 'Inking & typing personalization' and turn off `Personal inking and typing dictionary`, and under 'Personal dictionary', click on `Clear your personal dictionary`
  
  **4.**  Go to 'Diagnostics & feedback' and do the following:
   
