@@ -18,7 +18,7 @@
   
   _(d)_ `Show me suggested content in the Settings app`
   
- **2.** Go to 'Sppech' and turn off `Use your voice for apps using Microsoft's online speech recognition technology`
+ **2.** Go to 'Sppech' and turn off `Online speech recognition`
  
  **3.**  Go to 'Inking & typing personalization' and turn off `Personal inking and typing dictionary`
  
