@@ -34,9 +34,11 @@
 
 **5.** Under 'Activity history', uncheck `Store my activity history on this device` and under 'Clear activity history', click on `Clear`.
 
-**6.** Navigate to 'App permissions'.
+**6.** Under 'Search permissions', Turn off 'Cloud content search' for 'Microsoft account' and 'Work or school account', and under 'History', turn off `Search history on this device`, and click on `Clear device search history`.
 
-**7.** Go through 'Location, Camera, Microphone, Voice activation, Notifications, Account info, Contacts, Calendar, Phone calls, Call history, Email, Tasks, Messaging, Radios, Other devices, App diagnostics, Automatic file downloads, Documents, Downloads folder, Pictures, Videos, File system, Screenshot borders, and Screenshots and apps', and:
+**7.** Navigate to 'App permissions'.
+
+**8.** Go through 'Location, Camera, Microphone, Voice activation, Notifications, Account info, Contacts, Calendar, Phone calls, Call history, Email, Tasks, Messaging, Radios, Other devices, App diagnostics, Automatic file downloads, Documents, Downloads folder, Pictures, Videos, File system, Screenshot borders, and Screenshots and apps', and:
   
   (i) Select which apps to have access to which permissions and turn off unnecessary app permissions (**Recommended**). 
   
