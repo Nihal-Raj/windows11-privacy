@@ -10,23 +10,23 @@
 
 **1.** Open 'Settings' < 'Privacy & security' < 'Windows permissions' < 'General' and turn the followings off:
   
-  _(a)_ `Let apps show me personalized ads by using my advertising ID`
+  _(a)_ `Let apps show me personalized ads by using my advertising ID`.
   
-  _(b)_ `Let websites show me locally relevant content by accessing my language list`
+  _(b)_ `Let websites show me locally relevant content by accessing my language list`.
   
-  _(c)_ `Let Windows improve Start and search results by tracking app launches`
+  _(c)_ `Let Windows improve Start and search results by tracking app launches`.
   
-  _(d)_ `Show me suggested content in the Settings app`
+  _(d)_ `Show me suggested content in the Settings app`.
   
- **2.** Go to 'Sppech' and turn off `Online speech recognition`
+ **2.** Go to 'Sppech' and turn off `Online speech recognition`.
  
- **3.**  Go to 'Inking & typing personalization' and turn off `Personal inking and typing dictionary`, and under 'Personal dictionary', click on `Clear your personal dictionary`
+ **3.**  Go to 'Inking & typing personalization' and turn off `Personal inking and typing dictionary`, and under 'Personal dictionary', click on `Clear your personal dictionary`.
  
  **4.**  Go to 'Diagnostics & feedback' and do the following:
   
-  _(a)_ Under 'Diagnostic data', turn off `Send optional diagnostic data`
+  _(a)_ Under 'Diagnostic data', turn off `Send optional diagnostic data`.
   
-  _(b)_ Turn off 'Improve inking and typing'
+  _(b)_ Turn off 'Improve inking and typing'.
   
   _(c)_ Turn off 'Tailored experiences'.
   
@@ -52,7 +52,7 @@ Doing all of these will make your Windows 11 as private as possible.
 
    **1.** Use a password/PIN to sign in.
 
-   _**How**: Settings < Accounts < Sign-in options < Ways to sign in < PIN (Windows Hello)_ 
+   _**How**: Settings < Accounts < Sign-in options < Ways to sign in < PIN (Windows Hello)._ 
 
    **2.** Use a Local Account, instead of a Microsoft Account.
 
