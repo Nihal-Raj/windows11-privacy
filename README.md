@@ -38,7 +38,7 @@
 
 **7.** Navigate to 'App permissions'.
 
-**8.** Go through 'Location, Camera, Microphone, Voice activation, Notifications, Account info, Contacts, Calendar, Phone calls, Call history, Email, Tasks, Messaging, Radios, Other devices, App diagnostics, Automatic file downloads, Documents, Downloads folder, Pictures, Videos, File system, Screenshot borders, and Screenshots and apps', and:
+**8.** Go through 'Location, Camera, Microphone, Voice activation, Notifications, Account info, Contacts, Calendar, Phone calls, Call history, Email, Tasks, Messaging, Radios, Other devices, App diagnostics, Automatic file downloads, Documents, Downloads folder, Music library, Pictures, Videos, File system, Screenshot borders, and Screenshots and apps', and:
   
   (i) Select which apps to have access to which permissions and turn off unnecessary app permissions (**Recommended**). 
   
