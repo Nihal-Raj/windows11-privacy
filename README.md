@@ -61,6 +61,8 @@ Doing all of these will make your Windows 11 as private as possible.
 
    **3.** Don't use Cortana.
    
+   **4.** Use Windows Defender Firewall with Advanced Security and configure which apps should connect to the internet and which not accordingly.
+   
    # Other Methods
 
    Make Windows 11 private through [O&O ShutUp10++](https://www.oo-software.com/en/shutup10).
