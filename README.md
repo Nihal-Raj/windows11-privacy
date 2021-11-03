@@ -61,7 +61,7 @@ Doing all of these will make your Windows 11 as private as possible.
 
    **3.** Don't use 'Cortana'.
    
-   **4.** Use 'Windows Defender Firewall with Advanced Security' and configure which apps should connect to the internet and which not accordingly, this prevents sending any kind of information to the servers, highly impacting your privacy in a positive manner.
+   **4.** Use 'Windows Defender Firewall with Advanced Security' and configure which apps should connect to the internet and which not accordingly, this prevents sending any kind of information to the servers, therefore highly impacting your privacy in a positive manner.
    
    # Other Methods
 
