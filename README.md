@@ -2,7 +2,7 @@
 
 ![Windows 11 stable](https://badgen.net/badge/Windows%2011%2021H2/GPLv3/blue?icon=github)
 
-![Screenshot (1)](https://user-images.githubusercontent.com/80682093/139573297-62b20b6b-0735-40bc-bf18-ee2abbd8ac2c.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/80682093/153226427-f16316fd-fe34-4ea0-a629-c733c8f5e629.png)
 
 **OBJECTIVE**: Make Windows 11 Private!
 
