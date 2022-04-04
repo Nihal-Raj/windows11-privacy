@@ -1,6 +1,6 @@
 # Windows 11 Privacy
 
-![Windows 11 stable](https://badgen.net/badge/Windows%2011%2021H2/GPLv3/blue?icon=github)
+![Windows 11 stable](https://badgen.net/badge/Windows%2011%2021H2/MIT/blue?icon=github)
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/80682093/153226427-f16316fd-fe34-4ea0-a629-c733c8f5e629.png)
 
