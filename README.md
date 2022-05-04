@@ -2,7 +2,7 @@
 
 ![Windows 11 stable](https://badgen.net/badge/Windows%2011%2021H2/MIT/blue?icon=github)
 
-![Screenshot (1)](https://user-images.githubusercontent.com/80682093/153226427-f16316fd-fe34-4ea0-a629-c733c8f5e629.png)
+![windows-11-logo_print](https://user-images.githubusercontent.com/80682093/166716649-01db69d3-70f3-47ab-ba71-a6b03f82bcef.png)
 
 **OBJECTIVE**: Make Windows 11 Private!
 
@@ -69,7 +69,7 @@ Doing all of these will make your Windows 11 as private as possible.
    
    # Is It Possible?
 
-   Well, Windows 11 is really secure, but it's not private. Even if you implement all these settings, Microsoft will still collect some personal data (of course, less after
+   Well, Windows 11 is secure operating system, but it's not private. Even if you implement all these settings, Microsoft will still collect some personal data (of course, less after
    implementing these settings).
 
 # Thanks!
