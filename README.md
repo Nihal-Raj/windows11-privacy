@@ -8,7 +8,7 @@
 
 # Steps:
 
-- Open 'Settings' < 'Privacy & security' < 'Windows permissions' < 'General' and turn the followings off:
+- Open Settings < 'Privacy & security' < 'Windows permissions' < 'General' and turn the followings off:
   
   _(a)_ `Let apps show me personalized ads by using my advertising ID`.
   
