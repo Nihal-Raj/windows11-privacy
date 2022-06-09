@@ -57,9 +57,9 @@ Doing all of these will make your Windows 11 as private as possible.
    _**How**: Settings < Accounts < Other users < Add account
    When the sign-up prompt pops out, select `I don’t have this person’s sign-in information`. Then click on `Add a user without a Microsoft account` and click on `Next`. Then, fill up the username and password and answer the security questions, and finally click on `Next`. The local account will be created successfully._
 
-- Don't use 'Cortana'.
+- Don't use Cortana.
    
-- Use 'Windows Defender Firewall with Advanced Security' and configure which apps should connect to the internet and which not accordingly, this prevents sending any kind of information to the servers, therefore highly impacting your privacy in a positive manner.
+- Use Windows Defender Firewall with Advanced Security and configure which apps should connect to the internet and which not accordingly, this prevents sending any kind of information to the servers, therefore highly impacting your privacy in a positive manner.
    
    # Other Methods
 
@@ -67,8 +67,7 @@ Doing all of these will make your Windows 11 as private as possible.
    
    # Is It Possible?
 
-   Well, Windows 11 is secure operating system, but it's not private. Even if you implement all these settings, Microsoft will still collect some personal data (of course, less after
-   implementing these settings).
+   Well, Windows 11 is a secure operating system, but it's not private. Even if you implement all these settings, Microsoft will still collect some personal data (of course, less after implementing these settings).
 
 # Thanks!
 
